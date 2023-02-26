@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/harshitethic",
-  "author": "harshitethic",
+  "base": "https://github.com/viplavsharma/chat-bot",
+  "author": "viplavsharma",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.4.0",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshitethic/whatsapp-chatgpt.git"
+    "url": "https://github.com/viplavsharma/chat-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/harshitethic/whatsapp-chatgpt/issues"
+    "url": "https://github.com/viplavsharma/chat-bot/issues"
   },
-  "homepage": "https://github.com/harshitethic/whatsapp-chatgpt#readme"
+  "homepage": "https://github.com/viplavsharma/chat-bot#readme"
 }
